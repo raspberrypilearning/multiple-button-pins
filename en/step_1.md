@@ -1,4 +1,4 @@
-To set the pins for multiple buttons, use the following code:
+Import Button from the picozero library then set the pins for multiple buttons, use the following code:
 
 --- code ---
 ---
@@ -8,6 +8,8 @@ line_numbers: false
 line_number_start: 1
 line_highlights: 
 ---
+from picozero import Button
+
 button_1 = Button(18)
 button_2 = Button(22)
 button_3 = Button(28)
