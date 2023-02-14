@@ -1,4 +1,4 @@
-Import Button from the picozero library then set the pins for multiple buttons, use the following code:
+Importe Button de la bibliothèque picozero puis définis les broches pour plusieurs boutons, utilise le code suivant :
 
 --- code ---
 ---
@@ -9,4 +9,4 @@ from picozero import Button
 
 button_1 = Button(18) button_2 = Button(22) button_3 = Button(28) --- /code ---
 
-**Tip**: You might want to give your buttons variable names that relate to what they are doing. For example, `red_button` to turn on a red light. 
+**Astuce**: Tu voudras peut-être donner à tes boutons des noms de variables qui se rapportent à ce qu'ils font. Par exemple, `bouton_rouge` pour allumer une lumière rouge. 
