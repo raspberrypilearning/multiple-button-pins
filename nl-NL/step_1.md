@@ -1,4 +1,4 @@
-Import Button from the picozero library then set the pins for multiple buttons, use the following code:
+Importeer Button uit picozero-bibliotheek en stel vervolgens de pinnen voor meerdere knoppen in, gebruik de volgende code:
 
 --- code ---
 ---
@@ -9,4 +9,4 @@ from picozero import Button
 
 button_1 = Button(18) button_2 = Button(22) button_3 = Button(28) --- /code ---
 
-**Tip**: You might want to give your buttons variable names that relate to what they are doing. For example, `red_button` to turn on a red light. 
+**Tip**: Misschien wil je je variabelen voor je knoppen namen geven die betrekking hebben op wat ze doen. Bijvoorbeeld `rode_knop` om een rood licht aan te doen. 
