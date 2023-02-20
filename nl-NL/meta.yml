@@ -1,3 +1,4 @@
+---
 title: Pins voor meerdere knoppen instellen
 hero_image: images/banner.png
 description: Hoe kan je de pinnen voor meerdere knoppen op een Raspberry Pi Pico instellen
@@ -6,5 +7,4 @@ listed: false
 copyedit: false
 last_tested: "2022-02-14"
 steps:
-  - 
-    title: Pins voor meerdere knoppen instellen
+  - title: Pins voor meerdere knoppen instellen
