@@ -1,4 +1,4 @@
-Importeer Button uit picozero-bibliotheek en stel vervolgens de pinnen voor meerdere knoppen in, gebruik de volgende code:
+Importeer Button uit de picozero-bibliotheek en stel vervolgens de pinnen voor meerdere knoppen in, gebruik de volgende code:
 
 --- code ---
 ---
